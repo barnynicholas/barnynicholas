@@ -1,17 +1,17 @@
 ### Hi, I'm Barny! 👋
 
-I'm a student based in the United Kingdom, learning to code one project at a time.
+Student from the United Kingdom, learning to code one project at a time.
 
-I'm new to programming, so I build a bunch of Python projects to learn as I go.
+New to programming — I build Python projects to learn as I go.
 
-My main tech stack is Python, HTML, and CSS — no frameworks yet. 
-My favorite tools are Obsidian, PyCharm, and Zen Browser.
+**Stack:** Python, HTML, CSS (no frameworks yet)
+**Tools:** Obsidian, PyCharm, Zen Browser
 
-I don't have any pinned projects yet, but this README is my very first repo! 🎉
+No pinned projects yet, but this README is my first repo! 🎉
 
-**Hobbies:** programming, reading, playing games
+**Hobbies:** programming, reading, gaming
 
 **Fun Facts:**
 - 🐱 I love cats
-- 🎮 I enjoy playing Minecraft and Valorant
-- 🐍 I'm probably learning something new about Python right now
+- 🎮 I play Minecraft and Valorant
+- 🐍 Probably learning something new in Python right now
