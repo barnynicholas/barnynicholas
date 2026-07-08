@@ -4,8 +4,9 @@ Student from the United Kingdom, learning to code one project at a time.
 
 New to programming — I build Python projects to learn as I go.
 
-**Stack:** Python, HTML, CSS (no frameworks yet)
-**Tools:** Obsidian, PyCharm, Zen Browser
+**Stack:** Python, HTML, CSS (no frameworks yet) 
+
+**Tools:** Obsidian, PyCharm, Zen Browser 
 
 No pinned projects yet, but this README is my first repo! 🎉
 
