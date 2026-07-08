@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Barny! 👋
 
-<!--
-**barnynicholas/barnynicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student based in the United Kingdom, learning to code one project at a time.
 
-Here are some ideas to get you started:
+I'm new to programming, so I build a bunch of Python projects to learn as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Python, HTML, and CSS — no frameworks yet. My favorite tools are Obsidian, PyCharm, and Zen Browser.
+
+I don't have any pinned projects yet, but this README is my very first repo! 🎉
+
+**Hobbies:** programming, reading, playing games
+
+**Fun Facts:**
+- 🐱 I love cats
+- 🎮 I enjoy playing Minecraft and Valorant
+- 🐍 I'm probably learning something new about Python right now
