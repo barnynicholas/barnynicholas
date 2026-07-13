@@ -1,18 +1,20 @@
-### Hi, I'm Barny! 👋
+<pre>
+# greetings, traveler. i am <a href="https://discord.com/users/io.dinoo">barny</a>
 
-Student from the United Kingdom, learning to code one project at a time.
+a wandering apprentice of the coding arts, hailing from the united kingdom, currently traversing the labyrinthine realms of python.
 
-New to programming — I build Python projects to learn as I go.
+i am not yet a master — merely an initiate, forging my competence one humble project at a time, guided by nothing but curiosity and the occasional stack overflow incantation.
 
-**Stack:** Python, HTML, CSS (no frameworks yet) 
+<b>arsenal:</b> python, html, css (the frameworks remain unclaimed relics, for now)
 
-**Tools:** Obsidian, PyCharm, Zen Browser 
+<b>instruments of my craft:</b> obsidian, pycharm, zen browser
 
-No pinned projects yet, but this README is my first repo! 🎉
+no pinned repositories grace my profile as of yet — this very readme marks my inaugural foray into the public chronicle of my journey.
 
-**Hobbies:** programming, reading, gaming
+<b>pursuits beyond the terminal:</b> literature, gaming, and the endless pursuit of arcane knowledge
 
-**Fun Facts:**
-- 🐱 I love cats
-- 🎮 I play Minecraft and Valorant
-- 🐍 Probably learning something new in Python right now
+<b>lore fragments:</b>
+- a devoted admirer of the feline species
+- a frequent adventurer in the realms of minecraft and valorant
+- perpetually acquiring some obscure python technique, even as we speak
+</pre>
