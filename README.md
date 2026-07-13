@@ -1,8 +1,10 @@
 <pre style="font-size: 20px; line-height: 1.5;">
 # greetings, traveler 🗺️. i am <a href="https://discord.com/users/io.dinoo">barny</a>
+  
 a wandering apprentice of the coding arts, hailing from the
 united kingdom, currently traversing the labyrinthine realms
 of python 🐍.
+
 i am not yet a master — merely an initiate, forging my
 competence one humble project at a time, guided by nothing
 but curiosity and the occasional stack overflow incantation 📜.
