@@ -1,4 +1,4 @@
-<pre style="font-size: 18px; line-height: 1.5;">
+<pre style="font-size: 25px; line-height: 1.5;">
 # greetings, traveler. i am <a href="https://discord.com/users/io.dinoo">barny</a>
 
 a wandering apprentice of the coding arts, hailing from the
