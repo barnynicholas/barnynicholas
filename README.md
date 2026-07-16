@@ -1,4 +1,8 @@
-<pre style="font-size: 24px; line-height: 1.6; font-family: 'Courier New', Consolas, Monaco, monospace;">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+
+<pre style="font-size: 32px; line-height: 1.6; font-family: 'JetBrains Mono', 'Courier New', Consolas, Monaco, monospace;">
 # greetings, traveler 🗺️. i am <a href="https://discord.com/users/io.dinoo">barny</a>
   
 a wandering apprentice of the coding arts, hailing from the
